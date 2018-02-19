@@ -1,4 +1,0 @@
-﻿  test.cpp
-e:\我的 东东\easyx学习\sdl\do_udp\do_udp\do_udp.h(17): warning C4715: “Init_DO_UDP”: 不是所有的控件路径都返回值
-  DO_UDP.vcxproj -> E:\我的 东东\EasyX学习\SDL\DO_UDP\Debug\DO_UDP.exe
-  DO_UDP.vcxproj -> E:\我的 东东\EasyX学习\SDL\DO_UDP\Debug\DO_UDP.pdb (Full PDB)
