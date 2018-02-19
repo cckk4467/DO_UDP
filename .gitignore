@@ -31,9 +31,11 @@
 *.out
 *.app
 *.db
+*.vc.db
 *.opendb
 *.ttf
 *.pdb
 *.bmp
 *.png
 Debug/*.*
+DO_UDP/Debug/*.*
